@@ -169,6 +169,7 @@ header {
     display: flex;
     justify-content: center;
     
+    
 }
 
 article{
@@ -382,7 +383,7 @@ article img{
         position: fixed;
         top: 80px;
         left: 0;
-        background: #ffff;
+        background: rgb(255, 255, 255);
         overflow: hidden;
         transform: translateX(-350px);
         box-shadow: 10px 0 20px -25px black;
